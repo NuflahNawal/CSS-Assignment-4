@@ -410,8 +410,8 @@ p{
 
 .name3{
     position: absolute;
-    top: -190px;
-    left: -275px;
+    top: -590px;
+    left: 175px;
     color: white;
     font-size: 1.4rem;
 }
@@ -521,22 +521,22 @@ p{
 
 .name6{
     position: absolute;
-    top: 420px;
-    left: -270px;
+    top: 1220px;
+    left: 100px;
     color: white;
     font-size: 1.4rem;
 }
 
 .adress6{
     position: absolute;
-    top: 1300px;
+    top: 1270px;
     left: 90px;
 
 }
 
 .no6{
     position: absolute;
-    top: 1335px;
+    top: 1305px;
     left: 120px;
 
 }
@@ -559,22 +559,22 @@ p{
 
 .name7{
     position: absolute;
-    top: 420px;
-    left: 160px;
+    top: 1220px;
+    left: 520px;
     color: white;
     font-size: 1.4rem;
 }
 
 .adress7{
     position: absolute;
-    top: 1300px;
+    top: 1270px;
     left: 520px;
 
 }
 
 .no7{
     position: absolute;
-    top: 1340px;
+    top: 1310px;
     left: 560px;
 }
 
@@ -596,22 +596,23 @@ p{
 
 .name8{
     position: absolute;
-    top: 1300px;
-    right: -10px;
+    top: 1210px;
+    right: 190px;
     color: white;
     font-size: 1.4rem;
+    z-index: 2;
 }
 
 .adress8{
     position: absolute;
-    top: 1310px;
+    top: 1260px;
     right: 140px;
 
 }
 
 .no8{
     position: absolute;
-    top: 1380px;
+    top: 1320px;
     right: 230px;
 }
 
@@ -623,33 +624,33 @@ p{
     left: 20px;
 }
 
-.city3{
+.city9{
     color: rgb(176, 22, 22);
     position: absolute;
-    bottom: 580px;
+    bottom: 745px;
     left: 130px;
     font-size: 1.2rem;
 }
 
-.name3{
+.name9{
     position: absolute;
-    top: -190px;
-    left: -275px;
+    bottom: 710px;
+    left: 70px;
     color: white;
     font-size: 1.4rem;
 }
 
-.adress3{
+.adress9{
     position: absolute;
-    top: 680px;
-    left: 40px;
+    bottom: 680px;
+    left: 60px;
 
 }
 
-.no3{
+.no9{
     position: absolute;
-    top: 730px;
-    left: 130px;
+    bottom: 650px;
+    left: 90px;
 }
 
                                  /* img10 */
@@ -660,33 +661,33 @@ p{
     left: 450px;
 }
 
-.city3{
+.city10{
     color: rgb(176, 22, 22);
     position: absolute;
-    top: 580px;
-    left: 130px;
+    bottom: 745px;
+    left: 600px;
     font-size: 1.2rem;
 }
 
-.name3{
+.name10{
     position: absolute;
-    top: -190px;
-    left: -275px;
+    bottom: 780px;
+    left: 300px;
     color: white;
     font-size: 1.4rem;
 }
 
-.adress3{
+.adress10{
     position: absolute;
-    top: 680px;
-    left: 40px;
+    bottom: 700px;
+    left: 460px;
 
 }
 
-.no3{
+.no10{
     position: absolute;
-    top: 730px;
-    left: 130px;
+    bottom: 650px;
+    left: 570px;
 }
 
                                     /* img11 */
@@ -697,33 +698,33 @@ p{
     right: 120px;
 }
 
-.city3{
+.city11{
     color: rgb(176, 22, 22);
     position: absolute;
-    top: 580px;
-    left: 130px;
+    bottom: 750px;
+    right: 250px;
     font-size: 1.2rem;
 }
 
-.name3{
+.name1{
     position: absolute;
-    top: -190px;
-    left: -275px;
-    color: white;
+    bottom: 790px;
+    right: 375px;
+    color: rgb(7, 7, 7);
     font-size: 1.4rem;
 }
 
-.adress3{
+.adress11{
     position: absolute;
-    top: 680px;
-    left: 40px;
+    bottom: 700px;
+    right: 230px;
 
 }
 
-.no3{
+.no11{
     position: absolute;
-    top: 730px;
-    left: 130px;
+    bottom: 650px;
+    right: 240px;
 }
 
                                    /* img12 */
@@ -734,11 +735,11 @@ p{
     left: 450px;
 }
 
-.city3{
+.city12{
     color: rgb(176, 22, 22);
     position: absolute;
-    top: 580px;
-    left: 130px;
+    bottom: 160px;
+    left: 580px;
     font-size: 1.2rem;
 }
 
@@ -750,15 +751,92 @@ p{
     font-size: 1.4rem;
 }
 
-.adress3{
+.adress12{
     position: absolute;
-    top: 680px;
-    left: 40px;
+    bottom: 120px;
+    left: 500px;
 
 }
 
-.no3{
+.no12{
     position: absolute;
-    top: 730px;
-    left: 130px;
+    bottom: 90px;
+    left: 570px;
+}
+
+.no13{
+    position: absolute;
+    bottom: 65px;
+    left: 570px;
+}
+
+.parent14{
+    position: relative;
+    color: white;
+}
+
+.box4{
+    background-color: rgb(28, 27, 27);
+    height: 700px;
+    width: 100%;
+}
+
+.h5{
+    font-size: 1.7rem;
+    position: absolute;
+    top: -650px;
+}
+
+.h6{
+    font-size: 1.6rem;
+    position: absolute;
+    top: -580px;
+    left: -40px;
+}
+
+.pic1{
+    position: absolute;
+    left: 30px;
+    top: 250px;
+}
+
+.city13{
+    color: rgb(168, 20, 20);
+    font-size: 1.3rem;
+    position: absolute;
+    right: 500px;
+    top: 370px;
+}
+
+.name13{
+    font-size: 2.2rem;
+    position: absolute;
+    right: 440px;
+    top: 400px;
+}
+
+.adress13{
+    position: absolute;
+    top: 470px;
+    right: 140px;
+}
+
+.no14{
+    position: absolute;
+    top: 500px;
+    right: 410px;
+}
+
+.btn9{
+    background-color: rgb(53, 154, 53);
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    position: absolute;
+    top: 550px;
+    right: 480px;
+    border: 2px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(53, 154, 53);
 }
